@@ -26,7 +26,7 @@ Source System in den genannten mathematischen Kerngebieten und deren
 Anwendungsbereichen entwickeln wird, mit unverzichtbaren Tools für tausende
 von Forschungsprojekten. Richtungsweisend für die Entwicklung sind
 grundlagentheoretische und anwendungsorientierte Probleme der
-wissenschaftlichen Fragestellungen der Mitglieder von SymbTools bzw. Solche,
+wissenschaftlichen Fragestellungen der Mitglieder von SymbTools bzw. solche,
 die über die starke nationale und internationale Vernetzung an diese
 herangetragen werden (aktuell z. B. aus der europäischen Teilchenphysik).
 Aufgrund der Ausrichtung, Interdisziplinarität und hohen internationalen
@@ -50,5 +50,5 @@ aufzubauen, etwa zusammen mit dem Ingenieurbereich.
 |[Prof. Dr. Mathias Schulze](https://math.rptu.de/ags/agag/personen/leitung/mschulze)|RPTU in Kaiserslautern, FB Mathematik|
 |[Prof. Dr. Ulrich Thiel](https://math.rptu.de/ags/agag/personen/leitung/prof-dr-ulrich-thiel)|RPTU in Kaiserslautern, FB Mathematik|
 |**Assoziierte PartnerInnen**|
-|[Prof. Dr. Jürgen Roth](https://juergen-roth.de)|RPTU in Landau, FB Natur- und Uweltwissenschaften|
+|[Prof. Dr. Jürgen Roth](https://juergen-roth.de)|RPTU in Landau, FB Natur- und Umweltwissenschaften|
 |[Dr. Mirko Rahn](https://www.itwm.fraunhofer.de/de/abteilungen/hpc/mitarbeiter/mirko-rahn.html)|Fraunhofer ITWM, Bereich HPC|
