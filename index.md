@@ -10,7 +10,6 @@ layout: home
 # SymbTools – Symbolic Tools in Mathematics and their Application
 
 
-## Projektbeschreibung
 Die Arbeitsgruppen des Potentialbereichs SymbTools kommen bei Gründung der
 Initiative aus der Mathematik und Informatik. Leitthema der Zusammenarbeit ist
 die Entwicklung und Anwendung von algorithmischen Methoden und Software der
